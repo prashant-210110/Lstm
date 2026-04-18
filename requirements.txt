@@ -1,10 +1,11 @@
 pandas
-numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
 scikeras
 nltk
-tensorflow
-tensorflow-cpu
+streamlit
+tensorflow-cpu==2.15.0
+numpy==1.26.4
+h5py==3.10.0
+python-3.10
